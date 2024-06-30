@@ -1,0 +1,13 @@
+/home/zarina/Рабочий стол/myAPP/myApp/bin/Debug/netcoreapp3.1/myApp
+/home/zarina/Рабочий стол/myAPP/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/home/zarina/Рабочий стол/myAPP/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/home/zarina/Рабочий стол/myAPP/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/home/zarina/Рабочий стол/myAPP/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/home/zarina/Рабочий стол/myAPP/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/home/zarina/Рабочий стол/myAPP/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/home/zarina/Рабочий стол/myAPP/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/home/zarina/Рабочий стол/myAPP/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/home/zarina/Рабочий стол/myAPP/myApp/obj/Debug/netcoreapp3.1/myApp.csproj.CoreCompileInputs.cache
+/home/zarina/Рабочий стол/myAPP/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/home/zarina/Рабочий стол/myAPP/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
+/home/zarina/Рабочий стол/myAPP/myApp/obj/Debug/netcoreapp3.1/myApp.genruntimeconfig.cache
